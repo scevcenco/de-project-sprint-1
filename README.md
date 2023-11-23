@@ -1,3 +1,8 @@
+This is a project for Yandex Practicum Data Engineering Course.
+Sprint 1. RFM - Analysis.
+
+----
+
 # Проект 1-го спринта
 
 ### Описание
